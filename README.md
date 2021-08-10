@@ -1,6 +1,4 @@
-<h1>
-    Segment Tree
-</h1>
+<h1>Segment Tree</h1>
 
 Segment Tree is a data structures that let you easily find the minimum, maximum, or sum over a given subrange of a larger range.
 
